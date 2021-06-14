@@ -1,0 +1,6 @@
+tqdm
+easydict
+shutil
+# These must be installed before building mmdetection
+cython
+numpy
