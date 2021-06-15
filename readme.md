@@ -97,7 +97,7 @@ You may use others Linux OS.
    |--mmdetection
    ```
 
-   **Note:** The panda_project can be **git clone from github** in this [link](), or unzip from our submitting compressed file.
+   **Note:** The panda_project can be **git clone from github** in this [link](https://github.com/scofiedluo/panda_competetion.git), or unzip from our submitting compressed file.
 
 2. Install the dependencies:
 
@@ -113,10 +113,10 @@ You may use others Linux OS.
    	|-tcdata
    		|--panda_round1_test_202104_A   
    		|--panda_round1_test_202104_B 
-           |--panda_round1_test_A_annos_202104
-           |--panda_round1_test_B_annos_20210222
-           |--panda_round1_train_202104
-           |--panda_round1_train_annos_202104
+                   |--panda_round1_test_A_annos_202104
+                   |--panda_round1_test_B_annos_20210222
+                   |--panda_round1_train_202104
+                   |--panda_round1_train_annos_202104
    	...
    ```
 
@@ -128,9 +128,9 @@ You may use others Linux OS.
 
 4. Downloaded the pretrained model of **Cascade R-CNN R101_FPN** in this [link](http://download.openmmlab.com/mmdetection/v2.0/dcn/cascade_rcnn_r101_fpn_dconv_c3-c5_1x_coco/cascade_rcnn_r101_fpn_dconv_c3-c5_1x_coco_20200203-3b2f0594.pth), and put it in `./panda_project/code/mmdetection/checkpoints/`, or use the following url.
 
-   ```
+```
 http://download.openmmlab.com/mmdetection/v2.0/dcn/cascade_rcnn_r101_fpn_dconv_c3-c5_1x_coco/cascade_rcnn_r101_fpn_dconv_c3-c5_1x_coco_20200203-3b2f0594.pth
-   ```
+```
    
 5. **Training:**
 
