@@ -176,5 +176,5 @@ Thanks for their great work.
 If you have any question to reproduce the result `det_results.json`, please email 
 
 ```
-luotongyi@sjtu.edu.cn
+scofiedluo@gmail.com
 ```
